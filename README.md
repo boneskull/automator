@@ -1,6 +1,6 @@
 # Automator Workflows by [boneskull](https://github.com/boneskull)
 
-This is a collection of random workflows made with [Automator.app](http://en.wikipedia.org/wiki/Automator_(software)).
+This is a collection of random workflows made with [Automator.app](http://en.wikipedia.org/wiki/Automator_(software).
 
 ## Contents
 
